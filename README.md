@@ -1,10 +1,10 @@
-<div align="center">
+# Hi, I'm Aseem Al-Abasi 👋
 
-# 👋 Hello, I'm Aseem Al-Abasi
+### Business Information Technology (BIT) Student
 
-### Business Information Technology Student
+📍 International University of Technology Twintech (IUTT)
 
-Building Business Systems • Software Development • Data Analysis
+💡 Building Technology That Solves Business Problems.
 
 ---
 
@@ -21,3 +21,25 @@ I am a third-year Business Information Technology (BIT) student with an academic
 Alongside my university studies, I have gained practical industrial experience in manufacturing operations, process improvement, networking, and technical support. I enjoy transforming real-world business challenges into practical software solutions.
 
 Currently, I am expanding my experience through academic projects while continuously improving my programming, analytical, and business skills.
+
+---
+
+## 🎓 Education
+
+### Bachelor's Degree in Business Information Technology (BIT)
+
+**International University of Technology Twintech (IUTT)** *(In Progress)*
+
+- 🎓 Current Academic Level: Third-Year Student
+- ⭐ Academic Standing: A+ (Excellent)
+- 📚 Relevant Coursework:
+  - Business Information Systems
+  - Database Management Systems
+  - System Analysis & Design
+  - Web Development
+  - Financial Modeling
+  - Accounting I & II
+  - Principles of Marketing
+  - Data Analysis
+  - Computer Networks
+  - Advanced Programming
