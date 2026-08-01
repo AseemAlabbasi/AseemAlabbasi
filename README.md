@@ -24,7 +24,7 @@ International University of Technology Twintech (IUTT)
 ---
 
 
-<p align="center">
+<details open>
 
 <summary><h2 id="-about-me">👨‍💻 About Me</h2></summary>
 
@@ -35,8 +35,8 @@ I am a **third-year Business Information Technology (BIT)** student at **Interna
 My passion lies in building software that solves real-world business problems by combining programming, database systems, business analysis, and modern technologies.
 
 Alongside my academic journey, I have gained practical industrial experience in manufacturing operations, networking, technical support, and process optimization, allowing me to bridge the gap between technology and real business environments.
+
 </details>
-</p>
 
 <details>
 <summary><h2 id="-education">🎓 Education</h2></summary>
