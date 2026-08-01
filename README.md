@@ -24,7 +24,7 @@ International University of Technology Twintech (IUTT)
 ---
 
 
-
+<p align="center">
 
 <summary><h2 id="-about-me">👨‍💻 About Me</h2></summary>
 
@@ -36,6 +36,7 @@ My passion lies in building software that solves real-world business problems by
 
 Alongside my academic journey, I have gained practical industrial experience in manufacturing operations, networking, technical support, and process optimization, allowing me to bridge the gap between technology and real business environments.
 </details>
+</p>
 
 <details>
 <summary><h2 id="-education">🎓 Education</h2></summary>
