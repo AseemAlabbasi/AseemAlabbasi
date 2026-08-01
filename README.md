@@ -23,10 +23,8 @@ International University of Technology Twintech (IUTT)
 
 ---
 
-<p align="center">
 
-<a href="#-about-me">👤 About Me</a> •
-<details open>
+
 
 <summary><h2 id="-about-me">👨‍💻 About Me</h2></summary>
 
@@ -37,11 +35,9 @@ I am a **third-year Business Information Technology (BIT)** student at **Interna
 My passion lies in building software that solves real-world business problems by combining programming, database systems, business analysis, and modern technologies.
 
 Alongside my academic journey, I have gained practical industrial experience in manufacturing operations, networking, technical support, and process optimization, allowing me to bridge the gap between technology and real business environments.
-
 </details>
-<a href="#-education">🎓 Education</a> •
-<details>
 
+<details>
 <summary><h2 id="-education">🎓 Education</h2></summary>
 
 <br>
@@ -71,11 +67,9 @@ Alongside my academic journey, I have gained practical industrial experience in 
 - Java Programming
 - C++ Programming
 - Data Analysis
-
 </details>
-<a href="#-professional-experience">💼 Experience</a> •
-<details>
 
+<details>
 <summary><h2 id="-professional-experience">💼 Professional Experience</h2></summary>
 
 <br>
@@ -122,11 +116,9 @@ Participated in volunteer activities and community support initiatives.
 ### 🛒 Sales Experience
 
 Worked at Al-Amer Grocery Stores, developing communication, customer service and sales skills.
-
 </details>
-<a href="#-featured-academic-projects">🚀 Projects</a> •
-<details open>
 
+<details open>
 <summary><h2 id="-featured-academic-projects">🚀 Featured Academic Projects</h2></summary>
 
 <br>
@@ -193,7 +185,6 @@ Developed a modular application containing more than **80 integrated programs** 
 
 </details>
 
-<a href="#-technical-skills">🛠 Skills</a> •
 ## 🛠 Tech Stack
 
 <p align="center">
