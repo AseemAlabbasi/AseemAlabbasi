@@ -14,7 +14,7 @@ International University of Technology Twintech (IUTT)
 <br><br>
 <p align="center">
 
-<a href="#education">
+<a href="#about-me">
 <img src="https://img.shields.io/badge/BIT_STUDENT-2563eb?style=for-the-badge"/>
 </a>
 
@@ -60,7 +60,7 @@ Alongside my academic journey, I have gained practical industrial experience in 
 </details>
 
 <details>
-<summary><h2 id="-education">🎓 Education</h2></summary>
+<summary><h2 id="education">🎓 Education</h2></summary>
 
 <br>
 
@@ -141,7 +141,7 @@ Worked at Al-Amer Grocery Stores, developing communication, customer service and
 </details>
 
 <details open>
-<summary><h2 id="-featured-academic-projects">🚀 Featured Academic Projects</h2></summary>
+<summary><h2 id="featured-academic-projects">🚀 Featured Academic Projects</h2></summary>
 
 <br>
 
