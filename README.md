@@ -12,12 +12,33 @@ International University of Technology Twintech (IUTT)
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Software+Developer;Business+Systems+Analyst;Database+Designer;Data+Analysis+Enthusiast;Graphic+Designer;Always+Learning..." />
 
 <br><br>
+<p align="center">
 
-<img src="https://img.shields.io/badge/BIT%20Student-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/A%2B-Academic-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Developer-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graphic%20Designer-red?style=for-the-badge"/>
+<a href="#education">
+<img src="https://img.shields.io/badge/BIT_STUDENT-2563eb?style=for-the-badge"/>
+</a>
+
+<a href="#education">
+<img src="https://img.shields.io/badge/A+_ACADEMIC-22c55e?style=for-the-badge"/>
+</a>
+
+<br>
+
+<a href="#projects">
+<img src="https://img.shields.io/badge/SOFTWARE_DEVELOPER-f97316?style=for-the-badge"/>
+</a>
+
+<a href="#data-analysis">
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-a21caf?style=for-the-badge"/>
+</a>
+
+<br>
+
+<a href="#graphic-design">
+<img src="https://img.shields.io/badge/GRAPHIC_DESIGNER-ef4444?style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
@@ -26,7 +47,7 @@ International University of Technology Twintech (IUTT)
 
 <details open>
 
-<summary><h2 id="-about-me">👨‍💻 About Me</h2></summary>
+<summary><h2 id="about-me">👨‍💻 About Me</h2></summary>
 
 <br>
 
